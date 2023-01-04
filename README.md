@@ -1,10 +1,20 @@
 # Agriculture Visualizer
-Visualization for agricultural commodities from each district of Nepal
+Visualization for agricultural commodities from each district of Nepal.
+
+<hr>
 
 # How to run?
-Simply run the index.html file on your system
+Run ```index.html``` using a live server or command line.
 
-# Screenshots
+<hr>
 
-<img src="assets/area_demo.png"
->
+# Screenshot demo
+
+## Area
+<img src="assets/area_demo.png">
+
+## Production
+<img src="assets/production_demo.png">
+
+## Yield
+<img src="assets/yield_demo.png">
